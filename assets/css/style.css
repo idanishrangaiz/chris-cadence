@@ -1179,7 +1179,9 @@ display: inline-block;
     font-size: 27px;
     color: #fff;
     position: relative;
-    left: 50px;
+    left: 0px;
+    top: 3px;
+
 
 }
 
