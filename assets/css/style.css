@@ -10,15 +10,15 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #272829;
+  color: #101820;
 }
 
 a {
-  color: #149ddd;
+  color: #006778;
 }
 
 a:hover {
-  color: #37b3ed;
+  color: #D7A22A;
   text-decoration: none;
 }
 
@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50px;
   right: 15px;
   bottom: 15px;
-  background: #149ddd;
+  background: #006778;
   color: #fff;
   transition: display 0.5s ease-in-out;
   z-index: 99999;
@@ -52,7 +52,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .back-to-top:hover {
   color: #fff;
-  background: #2eafec;
+  background: #D7A22A;
   transition: background 0.2s ease-in-out;
 }
 
@@ -111,7 +111,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .profile .social-links a:hover {
-  background: #149ddd;
+  background: #006778;
   color: #fff;
   text-decoration: none;
 }
@@ -170,7 +170,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover i, .nav-menu .active > a i, .nav-menu li:hover > a i {
-  color: #149ddd;
+  color: #006778;
 }
 
 /* Mobile Navigation */
@@ -190,7 +190,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav-toggle i {
-  color: #149ddd;
+  color: #006778;
 }
 
 .mobile-nav-active {
@@ -251,7 +251,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   padding-bottom: 4px;
   letter-spacing: 1px;
-  border-bottom: 3px solid #149ddd;
+  border-bottom: 3px solid #006778;
 }
 
 @media (min-width: 1024px) {
@@ -305,7 +305,7 @@ section#portfolio {
   display: block;
   width: 50px;
   height: 3px;
-  background: #149ddd;
+  background: #006778;
   bottom: 0;
   left: 0;
 }
@@ -335,7 +335,7 @@ section#portfolio {
 .about .content ul i {
   font-size: 20px;
   padding-right: 2px;
-  color: #149ddd;
+  color: #006778;
 }
 
 .about .content p:last-child {
@@ -357,7 +357,7 @@ section#portfolio {
 .facts .count-box i {
   display: block;
   font-size: 44px;
-  color: #149ddd;
+  color: #006778;
   float: left;
 }
 
@@ -424,7 +424,7 @@ section#portfolio {
   width: 1px;
   height: 10px;
   transition: .9s;
-  background-color: #149ddd;
+  background-color: #006778;
 }
 
 /*--------------------------------------------------------------
@@ -441,7 +441,7 @@ section#portfolio {
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #149ddd;
+  border-left: 2px solid #006778;
   position: relative;
 }
 
@@ -485,7 +485,7 @@ section#portfolio {
   left: -9px;
   top: 0;
   background: #fff;
-  border: 2px solid #149ddd;
+  border: 2px solid #006778;
 }
 
 /*--------------------------------------------------------------
@@ -520,7 +520,7 @@ box-shadow: rgb(60 64 67 / 30%) 0px 1px 2px 0px, rgb(60 64 67 / 15%) 0px 2px 6px
 }
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-  color: #149ddd;
+  color: #006778;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -563,17 +563,17 @@ box-shadow: rgb(60 64 67 / 30%) 0px 1px 2px 0px, rgb(60 64 67 / 15%) 0px 2px 6px
   color: #fff;
   font-size: 28px;
   text-align: center;
-  background: rgba(20, 157, 221, 0.75);
+  background: #006778;
   transition: 0.3s;
   width: 50%;
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  background: rgba(20, 157, 221, 0.95);
+  background: #006778;
 }
 
 .portfolio .portfolio-wrap .portfolio-links a + a {
-  border-left: 1px solid #37b3ed;
+  border-left: 1px solid #006778;
 }
 
 .portfolio .portfolio-wrap:hover::before {
@@ -603,10 +603,10 @@ box-shadow: rgb(60 64 67 / 30%) 0px 1px 2px 0px, rgb(60 64 67 / 15%) 0px 2px 6px
   justify-content: center;
   width: 54px;
   height: 54px;
-  background: #149ddd;
+  background: #006778;
   border-radius: 50%;
   transition: 0.5s;
-  border: 1px solid #149ddd;
+  border: 1px solid #006778;
 }
 
 .services .icon i {
@@ -619,7 +619,7 @@ box-shadow: rgb(60 64 67 / 30%) 0px 1px 2px 0px, rgb(60 64 67 / 15%) 0px 2px 6px
 }
 
 .services .icon-box:hover .icon i {
-  color: #149ddd;
+  color: #006778;
 }
 
 .services .title {
@@ -634,7 +634,7 @@ box-shadow: rgb(60 64 67 / 30%) 0px 1px 2px 0px, rgb(60 64 67 / 15%) 0px 2px 6px
 }
 
 .services .title a:hover {
-  color: #149ddd;
+  color: #006778;
 }
 
 .services .description {
@@ -727,7 +727,7 @@ box-shadow: rgb(60 64 67 / 30%) 0px 1px 2px 0px, rgb(60 64 67 / 15%) 0px 2px 6px
 }
 
 .testimonials .owl-dot.active {
-  background-color: #149ddd !important;
+  background-color: #006778 !important;
 }
 
 @media (max-width: 767px) {
@@ -752,7 +752,7 @@ box-shadow: rgb(60 64 67 / 30%) 0px 1px 2px 0px, rgb(60 64 67 / 15%) 0px 2px 6px
 
 .contact .info i {
   font-size: 20px;
-  color: #149ddd;
+  color: #006778;
   float: left;
   width: 44px;
   height: 44px;
@@ -803,12 +803,12 @@ box-shadow: rgb(60 64 67 / 30%) 0px 1px 2px 0px, rgb(60 64 67 / 15%) 0px 2px 6px
 }
 
 .contact .info .social-links a:hover {
-  background: #149ddd;
+  background: #006778;
   color: #fff;
 }
 
 .contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
-  background: #149ddd;
+  background: #006778;
   color: #fff;
 }
 
@@ -884,7 +884,7 @@ box-shadow: rgb(60 64 67 / 30%) 0px 1px 2px 0px, rgb(60 64 67 / 15%) 0px 2px 6px
 }
 
 .contact .php-email-form button[type="submit"] {
-  background: #149ddd;
+  background: #006778;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -989,7 +989,7 @@ box-shadow: rgb(60 64 67 / 30%) 0px 1px 2px 0px, rgb(60 64 67 / 15%) 0px 2px 6px
 }
 
 .portfolio-details .portfolio-details-carousel .owl-dot.active {
-  background-color: #149ddd !important;
+  background-color: #006778 !important;
 }
 
 .portfolio-details .portfolio-info {
@@ -1096,7 +1096,7 @@ a.upwork {
     height: 482px;
 }
 .copyright a:hover {
-    color: #149ddd;
+    color: #006778;
 }
 
 .copyright a{
@@ -1223,7 +1223,7 @@ display: inline-block;
 
 .filters li a:hover {  
   color: black !important;
-    background: #149ddd !important;
+    background: #006778 !important;
   border-radius: 10px;
 }
 
@@ -1257,7 +1257,7 @@ div.isotope-pager{
     /* padding-right: 26px; */
     box-shadow: -1px 1px 11px rgb(0 0 0 / 10%);
     border-radius: 8px;
-    background-color: #149ddd;
+    background-color: #006778;
     /*border: 0.5px solid #ff0000;*/
     text-decoration: none;
 }
@@ -1308,7 +1308,7 @@ div.isotope-pager{
   position: absolute; 
   bottom: 0; 
   background: rgb(0, 0, 0);
-  background: #149ddd; /* Black see-through */
+  background: #006778; /* Black see-through */
   color: #f1f1f1; 
   width: 89% !important;
   transition: .5s ease;
