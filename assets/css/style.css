@@ -25,7 +25,9 @@ a:hover {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
 }
-
+h5.test-cls {
+    background: #D7A22A !important;
+}
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
